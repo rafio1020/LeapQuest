@@ -649,18 +649,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 654275111331644439, guid: 5f7669758c4a3664b942873c59a4e6ff, type: 3}
-      propertyPath: m_Size.x
-      value: 0.6498594
-      objectReference: {fileID: 0}
-    - target: {fileID: 654275111331644439, guid: 5f7669758c4a3664b942873c59a4e6ff, type: 3}
-      propertyPath: m_Offset.x
-      value: -0.016836643
-      objectReference: {fileID: 0}
-    - target: {fileID: 654275111331644439, guid: 5f7669758c4a3664b942873c59a4e6ff, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1682243001510142059, guid: 5f7669758c4a3664b942873c59a4e6ff, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.7
@@ -1739,6 +1727,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 996315834270426552, guid: ed295d6dd11b5844abd9e4b11fe6972f, type: 3}
+      propertyPath: sounds.Array.data[2].volume
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 5696001601852260595, guid: ed295d6dd11b5844abd9e4b11fe6972f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 314.92337
