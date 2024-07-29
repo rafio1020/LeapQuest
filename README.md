@@ -5,6 +5,7 @@ LeapQuest is a captivating 2D platformer game designed to offer players an excit
 
 
 ## How to Install & Run the Project
+[Play the game using WebGL](https://rafio1020.github.io/LeapQuest/)
 Follow these steps to install and run LeapQuest on your local machine:
 ### Prerequisites
 - Unity Hub (latest version)
